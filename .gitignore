@@ -3,6 +3,7 @@
 
 node_modules
 
-dist
+# dist
 test/config.js
 index.html
+package-lock.json
