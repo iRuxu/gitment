@@ -99,7 +99,7 @@ class Gitment {
       }, options)
 
       this.state.user.isLoggingIn = true
-      http.post('http://gitment.iruxu.com', {
+      http.post('https://gitment.iruxu.com', {
           code,
           client_id,
           client_secret,
